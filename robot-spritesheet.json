@@ -8,17 +8,17 @@
             "lights": 
             [
                 { 
-                    "color" : "white", 
+                    "color" : "rgb(255, 255, 255)", 
                     "imgPath": "img/img-pieces/robot/head/lights/lights-0/lights-0-white.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-0/lights-0-white.png"
                 },
                 { 
-                    "color" : "blue",  
+                    "color" : "rgb(95, 205, 228)",  
                     "imgPath": "img/img-pieces/robot/head/lights/lights-0/lights-0-blue.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-0/lights-0-blue.png"
                 },
                 { 
-                    "color" : "red",  
+                    "color" : "rgb(175, 50, 50)", 
                     "imgPath": "img/img-pieces/robot/head/lights/lights-0/lights-0-red.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-0/lights-0-red.png"
                 }
@@ -31,17 +31,17 @@
             "lights": 
             [
                 { 
-                    "color" : "white", 
+                    "color" : "rgb(255, 255, 255)", 
                     "imgPath": "img/img-pieces/robot/head/lights/lights-1/lights-1-white.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-1/lights-1-white.png"
                 },
                 { 
-                    "color" : "blue",
+                    "color" : "rgb(95, 205, 228)",
                     "imgPath": "img/img-pieces/robot/head/lights/lights-1/lights-1-blue.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-1/lights-1-blue.png"
                 },
                 { 
-                    "color" : "red",
+                    "color" : "rgb(175, 50, 50)", 
                     "imgPath": "img/img-pieces/robot/head/lights/lights-1/lights-1-red.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-1/lights-1-red.png"
                 }
@@ -54,17 +54,17 @@
             "lights": 
             [
                 { 
-                    "color" : "white",  
+                    "color" : "rgb(255, 255, 255)",
                     "imgPath": "img/img-pieces/robot/head/lights/lights-3/lights-3-white.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-3/lights-3-white.png"
                 },
                 { 
-                    "color" : "blue",
+                    "color" : "rgb(95, 205, 228)",
                     "imgPath": "img/img-pieces/robot/head/lights/lights-3/lights-3-blue.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-3/lights-3-blue.png"
                 },
                 { 
-                    "color" : "red", 
+                    "color" : "rgb(175, 50, 50)",
                     "imgPath": "img/img-pieces/robot/head/lights/lights-3/lights-3-red.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-3/lights-3-red.png"
                 }
@@ -77,17 +77,17 @@
             "lights": 
             [
                 { 
-                    "color" : "white",  
+                    "color" : "rgb(255, 255, 255)", 
                     "imgPath": "img/img-pieces/robot/head/lights/lights-4/lights-4-white.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-4/lights-4-white.png"
                 },
                 { 
-                    "color" : "blue",
+                    "color" : "rgb(95, 205, 228)",
                     "imgPath": "img/img-pieces/robot/head/lights/lights-4/lights-4-blue.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-4/lights-4-blue.png"
                 },
                 { 
-                    "color" : "red", 
+                    "color" : "rgb(175, 50, 50)",  
                     "imgPath": "img/img-pieces/robot/head/lights/lights-4/lights-4-red.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-4/lights-4-red.png"
                 }
@@ -100,17 +100,17 @@
             "lights": 
             [
                 { 
-                    "color" : "white",  
+                    "color" : "rgb(255, 255, 255)",  
                     "imgPath": "img/img-pieces/robot/head/lights/lights-5/lights-5-white.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-5/lights-5-white.png"
                 },
                 { 
-                    "color" : "blue",
+                    "color" : "rgb(95, 205, 228)",
                     "imgPath": "img/img-pieces/robot/head/lights/lights-5/lights-5-blue.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-5/lights-5-blue.png"
                 },
                 { 
-                    "color" : "red", 
+                    "color" : "rgb(175, 50, 50)",
                     "imgPath": "img/img-pieces/robot/head/lights/lights-5/lights-5-red.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-5/lights-5-red.png"
                 }
