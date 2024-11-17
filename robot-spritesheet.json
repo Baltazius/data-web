@@ -1,0 +1,81 @@
+{
+    "head":
+    [
+        {
+            "name": "head-0",
+            "img-path": "../img/img-pieces/robot/head/head-0.png",
+            "sprite-sheet": "../img/sprite-sheet/robot/head/head-0.png",
+            "lights": 
+            [
+                { 
+                    "white": 
+                    [ 
+                        {
+                            "img-path": "../img/img-pieces/robot/head/lights/lights/lights-0/lights-0-white.png" ,
+                            "sprite-sheet": "../img/sprite-sheet/robot/head/lights/lights-0/lights-0-white.png"
+                        }
+
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "head-1",
+            "img-path": "../img/img-pieces/robot/head/head-1.png",
+            "sprite-sheet": "../img/sprite-sheet/robot/head/head-1.png",
+            "lights": 
+            [
+                { 
+                    "white": 
+                    [ 
+                        {
+                            "img-path": "../img/img-pieces/robot/head/lights/lights/lights-1/lights-1-white.png" ,
+                            "sprite-sheet": "../img/sprite-sheet/robot/head/lights/lights-1/lights-1-white.png"
+                        }
+
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "head-2",
+            "sprite-sheet": "../img/sprite-sheet/robot/head/head-2.png",
+            "lights-path":
+            [
+                { "white": "../img/sprite-sheet/robot/head/lights-2.png" }
+            ]
+        }
+    ],
+
+    "torso": 
+    [
+        {
+            "name": "torso-0",
+            "sprite-sheet": "../img/sprite-sheet/robot/torso-0.png"
+        }
+    ],
+
+    "arms": 
+    [
+        {
+            "name": "arms-0",
+            "sprite-sheet": "../img/sprite-sheet/robot/arms/arms-0.png"
+        },
+        {
+            "name": "arms-1",
+            "sprite-sheet": "../img/sprite-sheet/robot/arms/arms-1.png"
+        },
+        {
+            "name": "arms-2",
+            "sprite-sheet": "../img/sprite-sheet/robot/arms/arms-2.png"
+        }
+    ],
+
+    "legs": 
+    [
+        {
+            "name": "legs-0",
+            "sprite-sheet": "../img/sprite-sheet/robot/legs-0.png"
+        }
+    ]
+}
