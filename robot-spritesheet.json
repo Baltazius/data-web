@@ -21,6 +21,11 @@
                     "color" : "rgb(175, 50, 50)", 
                     "imgPath": "img/img-pieces/robot/head/lights/lights-0/lights-0-red.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-0/lights-0-red.png"
+                },
+                { 
+                    "color" : "rgb(251, 177, 255)", 
+                    "imgPath": "img/img-pieces/robot/head/lights/lights-0/lights-0-pink.png",
+                    "spritesheet": "img/sprite-sheet/robot/head/lights/lights-0/lights-0-pink.png"
                 }
             ]
         },
@@ -44,6 +49,39 @@
                     "color" : "rgb(175, 50, 50)", 
                     "imgPath": "img/img-pieces/robot/head/lights/lights-1/lights-1-red.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-1/lights-1-red.png"
+                },
+                { 
+                    "color" : "rgb(251, 177, 255)", 
+                    "imgPath": "img/img-pieces/robot/head/lights/lights-1/lights-1-pink.png",
+                    "spritesheet": "img/sprite-sheet/robot/head/lights/lights-1/lights-1-pink.png"
+                }
+            ]
+        },
+        {
+            "name": "head-2",
+            "imgPath": "img/img-pieces/robot/head/head-2.png",
+            "spritesheet": "img/sprite-sheet/robot/head/head-2.png",
+            "lights": 
+            [
+                { 
+                    "color" : "rgb(255, 255, 255)", 
+                    "imgPath": "img/img-pieces/robot/head/lights/lights-2/lights-2-white.png",
+                    "spritesheet": "img/sprite-sheet/robot/head/lights/lights-2/lights-2-white.png"
+                },
+                { 
+                    "color" : "rgb(95, 205, 228)",
+                    "imgPath": "img/img-pieces/robot/head/lights/lights-2/lights-2-blue.png",
+                    "spritesheet": "img/sprite-sheet/robot/head/lights/lights-2/lights-2-blue.png"
+                },
+                { 
+                    "color" : "rgb(175, 50, 50)", 
+                    "imgPath": "img/img-pieces/robot/head/lights/lights-2/lights-2-red.png",
+                    "spritesheet": "img/sprite-sheet/robot/head/lights/lights-2/lights-2-red.png"
+                },
+                { 
+                    "color" : "rgb(251, 177, 255)", 
+                    "imgPath": "img/img-pieces/robot/head/lights/lights-2/lights-2-pink.png",
+                    "spritesheet": "img/sprite-sheet/robot/head/lights/lights-2/lights-2-pink.png"
                 }
             ]
         },
@@ -67,6 +105,11 @@
                     "color" : "rgb(175, 50, 50)",
                     "imgPath": "img/img-pieces/robot/head/lights/lights-3/lights-3-red.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-3/lights-3-red.png"
+                },
+                { 
+                    "color" : "rgb(251, 177, 255)", 
+                    "imgPath": "img/img-pieces/robot/head/lights/lights-3/lights-3-pink.png",
+                    "spritesheet": "img/sprite-sheet/robot/head/lights/lights-3/lights-3-pink.png"
                 }
             ]
         },
@@ -90,6 +133,11 @@
                     "color" : "rgb(175, 50, 50)",  
                     "imgPath": "img/img-pieces/robot/head/lights/lights-4/lights-4-red.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-4/lights-4-red.png"
+                },
+                { 
+                    "color" : "rgb(251, 177, 255)", 
+                    "imgPath": "img/img-pieces/robot/head/lights/lights-4/lights-4-pink.png",
+                    "spritesheet": "img/sprite-sheet/robot/head/lights/lights-4/lights-4-pink.png"
                 }
             ]
         },
@@ -113,6 +161,11 @@
                     "color" : "rgb(175, 50, 50)",
                     "imgPath": "img/img-pieces/robot/head/lights/lights-5/lights-5-red.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-5/lights-5-red.png"
+                },
+                { 
+                    "color" : "rgb(251, 177, 255)", 
+                    "imgPath": "img/img-pieces/robot/head/lights/lights-5/lights-5-pink.png",
+                    "spritesheet": "img/sprite-sheet/robot/head/lights/lights-5/lights-5-pink.png"
                 }
             ]
         }
