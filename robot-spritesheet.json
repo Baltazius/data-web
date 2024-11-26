@@ -118,7 +118,7 @@
                     "imgPath": "img/img-pieces/robot/head/lights/lights-2/lights-2-green.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-2/lights-2-green.png"
                 },
-                { 
+                {
                     "color" : "rgb(251, 242, 54)", 
                     "imgPath": "img/img-pieces/robot/head/lights/lights-2/lights-2-yellow.png",
                     "spritesheet": "img/sprite-sheet/robot/head/lights/lights-2/lights-2-yellow.png"
@@ -351,7 +351,8 @@
     [
         {
             "name": "torso-0",
-            "imgPath": "img/img-pieces/robot/torso-0.png"
+            "imgPath": "img/img-pieces/robot/torso-0.png",
+            "spritesheet": "img/sprite-sheet/robot/torso-0.png"
         }
     ],
 
@@ -359,31 +360,38 @@
     [
         {
             "name": "arms-0",
-            "imgPath": "img/img-pieces/robot/arms/arms-0.png"
+            "imgPath": "img/img-pieces/robot/arms/arms-0.png",
+            "spritesheet": "img/sprite-sheet/robot/arms/arms-0.png"
         },
         {
             "name": "arms-1",
-            "imgPath": "img/img-pieces/robot/arms/arms-1.png"
+            "imgPath": "img/img-pieces/robot/arms/arms-1.png",
+            "spritesheet": "img/sprite-sheet/robot/arms/arms-1.png"
         },
         {
             "name": "arms-2",
-            "imgPath": "img/img-pieces/robot/arms/arms-2.png"
+            "imgPath": "img/img-pieces/robot/arms/arms-2.png",
+            "spritesheet": "img/sprite-sheet/robot/arms/arms-2.png"
         },
         {
             "name": "arms-3",
-            "imgPath": "img/img-pieces/robot/arms/arms-3.png"
+            "imgPath": "img/img-pieces/robot/arms/arms-3.png",
+            "spritesheet": "img/sprite-sheet/robot/arms/arms-3.png"
         },
         {
             "name": "arms-4",
-            "imgPath": "img/img-pieces/robot/arms/arms-4.png"
+            "imgPath": "img/img-pieces/robot/arms/arms-4.png",
+            "spritesheet": "img/sprite-sheet/robot/arms/arms-4.png"
         },
         {
             "name": "arms-5",
-            "imgPath": "img/img-pieces/robot/arms/arms-5.png"
+            "imgPath": "img/img-pieces/robot/arms/arms-5.png",
+            "spritesheet": "img/sprite-sheet/robot/arms/arms-5.png"
         },
         {
             "name": "arms-6",
-            "imgPath": "img/img-pieces/robot/arms/arms-6.png"
+            "imgPath": "img/img-pieces/robot/arms/arms-6.png",
+            "spritesheet": "img/sprite-sheet/robot/arms/arms-6.png"
         }
     ],
 
