@@ -1,8 +1,9 @@
 {
-    "Weapons": 
+    "weapons": 
     {
-        "Xcannon": 
+        "xcannon": 
         {
+            "className": "Xcanon", 
             "name": "X-CANON",
             "description": "TIR DES PROJECTILES SUR AXES DIAGONAUX",
             "type": "Arme",
@@ -10,8 +11,9 @@
             "speed": 5, 
             "triggerTime": 5000
         },
-        "Crosscannon": 
+        "crosscannon": 
         {
+            "className": "Crosscannon", 
             "name": "CROSS-CANON",
             "description": "TIR DES PROJECTILES EN PATTERN DE CROIX",
             "type": "Arme",
@@ -19,8 +21,9 @@
             "speed": 5, 
             "triggerTime": 8000
         },
-        "Kaosgun": 
+        "kaosgun": 
         {
+            "className": "Kaosgun", 
             "name": "KAOSGUN",
             "description": "TIR DES PROJECTILES EN NOMBRE ET INTERVALLES ALÉATOIRES",
             "type": "Arme",
@@ -29,27 +32,27 @@
             "triggerTime": 10000
         }
     },
-    "ActiveSkills":
+    "activeSkills":
     {
 
     },
-    "PassiveSkills":
+    "passiveSkills":
     {
-        "DamageBoost": 
+        "damageBoost": 
         {
             "name": "AMPLIFICATION DE DÉGÂTS",
             "description": "PRODUCTION DES DÉGÂTS PROVENANTS DES ARMES AUGMENTÉE DE 15%",
             "type": "COMPÉTENCE PASSIVE",
             "boost": 0.15
         },
-        "LifeBoost":
+        "lifeBoost":
         {
             "name": "AUGMENTATION DE VIE",
             "description": "MAXIMUM DE VIE AUGMENTÉ DE 20",
             "type": "COMPÉTENCE PASSIVE",
             "boost": 20
         },
-        "SpeedBoost":
+        "speedBoost":
         {
             "name": "VITESSE AMÉLIORÉE",
             "description": "VITESSE AUGMENTÉE DE 10%",
