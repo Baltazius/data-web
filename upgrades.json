@@ -1,7 +1,7 @@
 {
     "weapons": 
     {
-        "xcannon": 
+        "Xcannon": 
         {
             "className": "Xcanon", 
             "name": "X-CANON",
@@ -11,7 +11,7 @@
             "speed": 5, 
             "triggerTime": 5000
         },
-        "crosscannon": 
+        "Crosscannon": 
         {
             "className": "Crosscannon", 
             "name": "CROSS-CANON",
@@ -21,7 +21,7 @@
             "speed": 5, 
             "triggerTime": 8000
         },
-        "kaosgun": 
+        "Kaosgun": 
         {
             "className": "Kaosgun",
             "name": "KAOSGUN",
@@ -38,7 +38,7 @@
     },
     "passiveSkills":
     {
-        "damageBoost": 
+        "DamageBoost": 
         {
             "className": "DamageBoost",
             "name": "AMPLIFICATION DE DÉGÂTS",
@@ -46,7 +46,7 @@
             "type": "COMPÉTENCE PASSIVE",
             "boost": 0.15
         },
-        "lifeBoost":
+        "LifeBoost":
         {
             "className": "LifeBoost", 
             "name": "AUGMENTATION DE VIE",
@@ -54,7 +54,7 @@
             "type": "COMPÉTENCE PASSIVE",
             "boost": 20
         },
-        "speedBoost":
+        "SpeedBoost":
         {
             "className": "SpeedBoost", 
             "name": "VITESSE AMÉLIORÉE",
@@ -62,7 +62,7 @@
             "type": "COMPÉTENCE PASSIVE",
             "boost": 0.10
         },
-        "fireRateBoost":
+        "FireRateBoost":
         {
             "className": "FireRateBoost",
             "name": "FRÉQUENCE DE TIR",
@@ -70,7 +70,7 @@
             "type": "COMPÉTENCE PASSIVE",
             "boost": 0.15
         },
-        "ammoBoost":
+        "AmmoBoost":
         {
             "className": "AmmoBoost",
             "name": "PROJECTILE BOOST",
