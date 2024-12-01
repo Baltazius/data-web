@@ -28,7 +28,7 @@
         "damage": 10, 
         "speed": 5, 
         "triggerTime": 10000
-    }
+    },
     "DamageBoost": 
     {
         "className": "DamageBoost",
