@@ -3,7 +3,7 @@
     {
         "className": "Xcannon", 
         "name": "X-CANON",
-        "description": "TIR DES PROJECTILES SUR AXES DIAGONAUX",
+        "desc": "TIR DES PROJECTILES SUR AXES DIAGONAUX",
         "type": "ARME",
         "damage": 10, 
         "speed": 5, 
@@ -13,7 +13,7 @@
     {
         "className": "Crosscannon", 
         "name": "CROSS-CANON",
-        "description": "TIR DES PROJECTILES EN PATTERN DE CROIX",
+        "desc": "TIR DES PROJECTILES EN PATTERN DE CROIX",
         "type": "ARME",
         "damage": 10, 
         "speed": 5, 
@@ -23,7 +23,7 @@
     {
         "className": "Kaosgun",
         "name": "KAOSGUN",
-        "description": "TIR DES PROJECTILES EN NOMBRE ET INTERVALLES ALÉATOIRES",
+        "desc": "TIR DES PROJECTILES EN NOMBRE ET INTERVALLES ALÉATOIRES",
         "type": "ARME",
         "damage": 10, 
         "speed": 5, 
@@ -33,7 +33,7 @@
     {
         "className": "DamageBoost",
         "name": "AMPLIFICATION DE DÉGÂTS",
-        "description": "PRODUCTION DES DÉGÂTS PROVENANTS DES ARMES AUGMENTÉE DE 15%",
+        "desc": "PRODUCTION DES DÉGÂTS PROVENANTS DES ARMES AUGMENTÉE DE 15%",
         "type": "COMPÉTENCE PASSIVE",
         "boost": 0.15
     },
@@ -41,7 +41,7 @@
     {
         "className": "LifeBoost", 
         "name": "AUGMENTATION DE VIE",
-        "description": "MAXIMUM DE VIE AUGMENTÉ DE 20",
+        "desc": "MAXIMUM DE VIE AUGMENTÉ DE 20",
         "type": "COMPÉTENCE PASSIVE",
         "boost": 20
     },
@@ -49,7 +49,7 @@
     {
         "className": "SpeedBoost", 
         "name": "VITESSE AMÉLIORÉE",
-        "description": "VITESSE AUGMENTÉE DE 10%",
+        "desc": "VITESSE AUGMENTÉE DE 10%",
         "type": "COMPÉTENCE PASSIVE",
         "boost": 0.10
     },
@@ -57,7 +57,7 @@
     {
         "className": "FireRateBoost",
         "name": "FRÉQUENCE DE TIR",
-        "description": "FRÉQUENCE DE TIR AUGMENTÉE DE 15%",
+        "desc": "FRÉQUENCE DE TIR AUGMENTÉE DE 15%",
         "type": "COMPÉTENCE PASSIVE",
         "boost": 0.15
     },
@@ -65,7 +65,7 @@
     {
         "className": "AmmoBoost",
         "name": "PROJECTILE BOOST",
-        "description": "PROJECTILE COUNT INCREASED BY 1",
+        "desc": "PROJECTILE COUNT INCREASED BY 1",
         "type": "COMPÉTENCE PASSIVE",
         "boost": 1
     }
