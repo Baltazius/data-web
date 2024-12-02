@@ -5,7 +5,7 @@
         "name": "X-CANNON",
         "desc": "TIR DES PROJECTILES SUR AXES DIAGONAUX",
         "type": "ARME",
-        "damage": 10, 
+        "damage": 5, 
         "speed": 5, 
         "triggerTime": 5000
     },
@@ -15,9 +15,9 @@
         "name": "CROSS-CANON",
         "desc": "TIR DES PROJECTILES EN PATTERN DE CROIX",
         "type": "ARME",
-        "damage": 10, 
+        "damage": 5, 
         "speed": 5, 
-        "triggerTime": 8000
+        "triggerTime": 7000
     },
     "Kaosgun": 
     {
@@ -25,7 +25,7 @@
         "name": "KAOSGUN",
         "desc": "TIR DES PROJECTILES EN NOMBRE ET INTERVALLES ALÉATOIRES",
         "type": "ARME",
-        "damage": 10, 
+        "damage": 5, 
         "speed": 5, 
         "triggerTime": 10000
     },
@@ -33,9 +33,9 @@
     {
         "className": "DamageBoost",
         "name": "AMPLIFICATION DE DÉGÂTS",
-        "desc": "PRODUCTION DES DÉGÂTS PROVENANTS DES ARMES AUGMENTÉE DE 15%",
+        "desc": "PRODUCTION DES DÉGÂTS PROVENANTS DES ARMES AUGMENTÉE DE 10%",
         "type": "COMPÉTENCE PASSIVE",
-        "boost": 0.15
+        "boost": 0.10
     },
     "LifeBoost":
     {
@@ -57,9 +57,9 @@
     {
         "className": "FireRateBoost",
         "name": "STABILISATION THERMIQUE",
-        "desc": "FRÉQUENCE DE TIR AUGMENTÉE DE 15%",
+        "desc": "FRÉQUENCE DE TIR AUGMENTÉE DE 10%",
         "type": "COMPÉTENCE PASSIVE",
-        "boost": 0.15
+        "boost": 0.10
     },
     "AmmoBoost":
     {
