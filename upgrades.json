@@ -7,7 +7,7 @@
         "type": "ARME",
         "damage": 5, 
         "speed": 5, 
-        "triggerTime": 5000
+        "triggerTime": 4000
     },
     "Crosscannon": 
     {
@@ -17,7 +17,7 @@
         "type": "ARME",
         "damage": 5, 
         "speed": 5, 
-        "triggerTime": 7000
+        "triggerTime": 6000
     },
     "Kaosgun": 
     {
