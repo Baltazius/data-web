@@ -83,7 +83,7 @@
         "name": "BLINDAGE RENFORCÉ",
         "desc": "RÉDUIT LES DÉGÂTS SUBIS DE 10%",
         "type": "COMPÉTENCE PASSIVE",
-        "boost": 0.05
+        "boost": 0.10
     },
     "RegenBoost":
     {
