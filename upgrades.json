@@ -7,7 +7,7 @@
         "type": "ARME",
         "damage": 5, 
         "speed": 5, 
-        "triggerTime": 3000
+        "triggerTime": 2000
     },
     "Crosscannon": 
     {
