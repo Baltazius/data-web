@@ -2,7 +2,7 @@
     "Xcannon": 
     {
         "className": "Xcannon", 
-        "name": "X-CANON",
+        "name": "X-CANNON",
         "desc": "TIR DES PROJECTILES SUR AXES DIAGONAUX",
         "type": "ARME",
         "damage": 10, 
@@ -40,7 +40,7 @@
     "LifeBoost":
     {
         "className": "LifeBoost", 
-        "name": "AUGMENTATION DE VIE",
+        "name": "DURABILITÉ AMÉLIORÉE",
         "desc": "MAXIMUM DE VIE AUGMENTÉ DE 20",
         "type": "COMPÉTENCE PASSIVE",
         "boost": 20
@@ -48,7 +48,7 @@
     "SpeedBoost":
     {
         "className": "SpeedBoost", 
-        "name": "VITESSE AMÉLIORÉE",
+        "name": "JAMBES BIONIQUES AUGMENTÉES",
         "desc": "VITESSE AUGMENTÉE DE 10%",
         "type": "COMPÉTENCE PASSIVE",
         "boost": 0.10
@@ -56,7 +56,7 @@
     "FireRateBoost":
     {
         "className": "FireRateBoost",
-        "name": "FRÉQUENCE DE TIR",
+        "name": "STABILISATION THERMIQUE",
         "desc": "FRÉQUENCE DE TIR AUGMENTÉE DE 15%",
         "type": "COMPÉTENCE PASSIVE",
         "boost": 0.15
@@ -64,8 +64,32 @@
     "AmmoBoost":
     {
         "className": "AmmoBoost",
-        "name": "PROJECTILE BOOST",
-        "desc": "PROJECTILE COUNT INCREASED BY 1",
+        "name": "MUNITIONS SUPPLÉMENTAIRES",
+        "desc": "AUGMENTE LE NOMBRE DE PROJECTILE TIRÉ DE 1",
+        "type": "COMPÉTENCE PASSIVE",
+        "boost": 1
+    },
+    "XPBoost":
+    {
+        "className": "XPBoost",
+        "name": "AMÉLIORATION MÉMOIRE VIVE",
+        "desc": "AUGMENTE LE NOMBRE D'XP RÉCOLTÉ DE 10%",
+        "type": "COMPÉTENCE PASSIVE",
+        "boost": 0.10
+    },
+    "ArmorBoost":
+    {
+        "className": "ArmorBoost",
+        "name": "BLINDAGE RENFORCÉ",
+        "desc": "RÉDUIT LES DÉGÂTS SUBIS DE 10%",
+        "type": "COMPÉTENCE PASSIVE",
+        "boost": 0.05
+    },
+    "RegenBoost":
+    {
+        "className": "RegenBoost",
+        "name": "RÉPARATION AUTOMATISÉE",
+        "desc": "AUGMENTE LA RÉGÉNÉRATION PAR SECONDE DE 1",
         "type": "COMPÉTENCE PASSIVE",
         "boost": 1
     }
